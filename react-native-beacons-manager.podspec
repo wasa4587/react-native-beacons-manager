@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "ReactNativeBeaconsManager"
+  s.name         = "react-native-beacons-manager"
   s.version      = "1.1.0"
   s.summary      = "React-Native library for detecting beacons (iOS and Android)"
   s.homepage     = "https://github.com/MacKentoch/react-native-beacons-manager#readme"
